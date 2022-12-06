@@ -1,12 +1,14 @@
 # Super-equipes Marvel
 
-[Vingadores](Pages/vingadores.md)
+ Links para acesso às páginas
 
-[X-Men](Pages/xmen.md)
+- [Vingadores](Pages/vingadores.md)
 
-[Guardiões da Galaxia](Pages/guardioes.md)
+- [X-Men](Pages/xmen.md)
 
-[X-Force](Pages/xforce.md)
+- [Guardiões da Galaxia](Pages/guardioes.md)
 
-[Legion of X](Pages/legion.md)
+- [X-Force](Pages/xforce.md)
+
+- [Legion of X](Pages/legion.md)
 
