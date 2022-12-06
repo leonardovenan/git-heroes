@@ -1,23 +1,12 @@
-# Introdução ao GIT
+# Super-equipes Marvel
 
-- Inicializar o projeto (Repositório local)
+[Vingadores](Pages/vingadores.md)
 
-```bash
-$ git init
-```
-- Descobrir o estado (status) do repositório
+[X-Men](Pages/xmen.md)
 
-```bash
-$ git status
-```
-- Para adicionar novas mudanças
+[Guardiões da Galaxia](Pages/guardioes.md)
 
-```bash
-$ git add <NOMEDOARQUIVO>
-```
+[X-Force](Pages/xforce.md)
 
-- Para adicionar novas mudanças
+[Legion of X](Pages/legion.md)
 
-```bash
-$ git commit -m "MESSAGE"
-```
