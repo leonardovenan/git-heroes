@@ -14,5 +14,5 @@
 
 - [5 - Legion of X](Pages/legion.md)
 
-- [6 – Vingadores Selvagens](Pages/vingadoresS.md)
+- [6 - Vingadores Selvagens](Pages/vingadoresS.md)
 
